@@ -1,0 +1,2 @@
+# mean_variance_standar_deviation_calcutor
+in python
